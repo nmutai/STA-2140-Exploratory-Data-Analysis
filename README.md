@@ -14,6 +14,8 @@ R/GensStat/SPSS/Excel software, with real data.
 
 Reference books
 
+https://discdown.org/rprogramming/index.html 
+
 https://bookdown.org/rdpeng/rprogdatascience/
 
 https://bookdown.org/rdpeng/exdata/
