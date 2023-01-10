@@ -1,0 +1,41 @@
+Gender,Gender1,Height,Weight,Weight1,No of People,No of Events,Sick,Sick1,Smoking,Smoking1,Belief_in_Afterlife,Belief_in_Afterlife1,Political_Ideology,Political_Ideology1,Political_Party,Political_Party1,Dose1,Dose2,Dose3,Dose4,Length,Time,Distance
+Male,1,11.81,74.51,107.03,1,3,Yes,1,Never,1,No,1,Slightly Conservative,4,Kadu,0,7,63,42,37,6,2,4
+Male,1,25.31,54.66,96.62,6,3,No,0,Rarely,2,No,1,Moderate,3,Kanu,1,9,65,44,42,7,2,3
+Female,0,6.34,61.57,102.8,6,6,Yes,1,Moderately,3,No,1,Slightly Conservative,4,Kanu,1,10,63,45,52,6,2,5
+Male,1,10.38,51.53,72.45,1,10,No,0,Frequently,4,Undecided,2,Slightly Liberal,2,Kanu,1,8,64,41,47,11,4,4
+Female,0,3.65,57.42,75.04,4,3,No,0,Never,1,Undecided,2,Very Liberal,1,Kanu,1,7,64,42,41,12,5,7
+Male,1,9.85,60.15,50.28,6,1,Yes,1,Never,1,No,1,Very Liberal,1,Kanu,1,11,65,44,45,13,6,8
+Male,1,14.25,66.77,106.03,7,1,No,0,Rarely,2,No,1,Moderate,3,Kanu,1,9,63,45,46,15,8,8
+Male,1,22.14,73.42,91.75,1,9,No,0,Rarely,2,Undecided,2,Slightly Liberal,2,Kadu,0,9,64,41,40,18,9,11
+Female,0,8.22,84.88,76.33,4,4,No,0,Rarely,2,No,1,Slightly Conservative,4,Kadu,0,7,65,43,42,19,11,15
+Male,1,9.08,74.15,86.13,3,2,Yes,1,Moderately,3,Undecided,2,Slightly Liberal,2,Kanu,1,7,63,41,44,21,12,16
+Male,1,11.71,71.36,85.17,4,10,No,0,Rarely,2,No,1,Moderate,3,Kanu,1,7,64,45,35,20,13,18
+Male,1,14.61,57.51,88.36,2,11,No,0,Moderately,3,No,1,Slightly Conservative,4,Kadu,0,7,65,43,44,22,15,20
+Male,1,10.02,61.58,74.08,5,9,No,0,Never,1,No,1,Slightly Conservative,4,Kanu,1,10,63,42,35,24,16,22
+Male,1,15.54,63.32,65.79,5,6,No,0,Rarely,2,Yes,3,Very Liberal,1,Kadu,0,7,64,44,35,25,18,23
+Female,0,7.23,82.44,49.4,5,3,No,0,Moderately,3,Undecided,2,Very Liberal,1,Kanu,1,11,64,44,35,26,19,24
+Male,1,16.56,77.42,55.78,3,11,No,0,Rarely,2,Undecided,2,Slightly Conservative,4,Kanu,1,12,63,45,51,28,20,26
+Female,0,1.22,56.69,63.53,4,5,Yes,1,Moderately,3,No,1,Very Liberal,1,Kadu,0,10,64,41,46,30,21,28
+Female,0,6.31,50.64,49.05,6,10,No,0,Moderately,3,Yes,3,Slightly Conservative,4,Kanu,1,8,65,43,35,34,22,29
+Male,1,11.18,80.49,104.03,6,3,No,0,Rarely,2,Yes,3,Slightly Liberal,2,Kadu,0,11,64,43,36,35,24,30
+Male,1,16.33,62.45,81.82,5,8,Yes,1,Rarely,2,Undecided,2,Slightly Conservative,4,Kanu,1,7,63,45,35,39,25,31
+Male,1,19.01,55.89,92.98,4,5,Yes,1,Rarely,2,Undecided,2,Slightly Liberal,2,Kadu,0,7,64,41,35,40,27,33
+Male,1,8.24,49.75,101.79,2,4,Yes,1,Rarely,2,Undecided,2,Very Liberal,1,Kanu,1,11,64,42,38,41,28,36
+Male,1,12.95,53.44,88.86,5,5,Yes,1,Never,1,No,1,Moderate,3,Kanu,1,8,64,41,38,43,29,38
+Male,1,17.46,85.04,80.81,6,1,Yes,1,Rarely,2,Undecided,2,Very Conservative,5,Kanu,1,8,65,45,52,44,30,41
+Female,0,6.72,62.48,90.31,2,11,No,0,Rarely,2,Undecided,2,Moderate,3,Kanu,1,10,63,42,47,45,31,43
+Female,0,7.89,63.02,93.87,6,6,Yes,1,Frequently,4,Yes,3,Moderate,3,Kanu,1,12,63,44,45,47,33,45
+Male,1,11.42,77.16,82.53,7,0,No,0,Frequently,4,Yes,3,Slightly Liberal,2,Kanu,1,8,64,44,45,49,35,46
+Female,0,5.47,85.33,94.72,3,0,No,0,Moderately,3,Undecided,2,Slightly Liberal,2,Kadu,0,9,64,44,36,50,36,48
+Female,0,6.89,77.7,84.19,7,10,No,0,Never,1,No,1,Slightly Liberal,2,Kanu,1,7,64,45,38,52,38,49
+Female,0,8.04,58.37,59.94,3,1,No,0,Frequently,4,Undecided,2,Slightly Liberal,2,Kadu,0,11,63,45,51,53,39,49
+Female,0,7.54,76.73,50.25,5,5,No,0,Rarely,2,Yes,3,Very Liberal,1,Kanu,1,7,65,45,49,55,43,52
+Female,0,2.77,74.91,46.84,4,7,No,0,Frequently,4,Undecided,2,Slightly Conservative,4,Kadu,0,7,63,43,49,58,44,53
+Female,0,8.65,75.16,75.4,2,2,No,0,Rarely,2,Yes,3,Slightly Conservative,4,Kanu,1,8,63,45,46,59,50,55
+Male,1,12.55,81.44,60.14,4,10,Yes,1,Rarely,2,Yes,3,Slightly Conservative,4,Kanu,1,7,63,44,41,60,54,59
+Male,1,17.37,70.15,60.32,2,9,No,0,Frequently,4,No,1,Slightly Liberal,2,Kanu,1,11,65,42,51,62,58,64
+Male,1,12.52,61.62,102.59,1,11,No,0,Moderately,3,Yes,3,Slightly Liberal,2,Kanu,1,11,65,43,39,64,60,66
+Male,1,19.63,66.85,107.57,5,6,No,0,Frequently,4,Undecided,2,Slightly Conservative,4,Kanu,1,12,65,41,49,66,65,75
+Female,0,4.21,66.89,104.22,3,1,No,0,Moderately,3,Undecided,2,Very Conservative,5,Kanu,1,9,65,41,39,67,67,76
+Female,0,3.5,55.81,102.18,4,0,Yes,1,Moderately,3,Yes,3,Moderate,3,Kadu,0,9,63,43,36,69,68,78
+Male,1,21.84,61.43,80.52,6,10,No,0,Frequently,4,No,1,Moderate,3,Kadu,0,11,64,45,37,70,72,84
