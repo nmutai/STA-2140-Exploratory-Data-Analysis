@@ -19,3 +19,5 @@ https://discdown.org/rprogramming/index.html
 https://bookdown.org/rdpeng/rprogdatascience/
 
 https://bookdown.org/rdpeng/exdata/
+
+https://bookdown.org/dli/rguide/
